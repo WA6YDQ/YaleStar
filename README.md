@@ -27,5 +27,5 @@ To use place the star executable and bsc5.dat in the same
 directory. Run star. The output will be displayed on screen or you can save it to a file:
    star > output.txt
 
-The filed splits are in bsc5.readme if you need other fields.
+The fields are described in bsc5.readme if you need other fields.
 
